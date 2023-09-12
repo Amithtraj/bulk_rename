@@ -7,8 +7,7 @@ python
 
 # Define folder path and pattern to remove
 folder_path = r"C:\Users\USER\Desktop\Spotify"
-\n
-remove_part = 'unwated texts'
+<br> remove_part = 'unwated texts'
 
 # Call the function to rename files
 rename_files(folder_path, remove_part)
